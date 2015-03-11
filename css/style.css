@@ -6,7 +6,7 @@ body {
   background-image: url ("images/swirl_pattern.png");
 }
 .container {
-  /* Set max page width */
+  /* Set max page width  */
   max-width: 960px;
 }
 .list-inline li:first-child {
